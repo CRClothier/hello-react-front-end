@@ -140,7 +140,8 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-No future features will be added as this is just an exercise.
+*User greetings* - add a form so the user can suggest new random greetings.
+*Add CSS animations* - Add animations for the greetings to appear on screen creatinga great user experience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
