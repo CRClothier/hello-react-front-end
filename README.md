@@ -23,7 +23,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello React Frontend <a name="about-project"></a>
-**Hello React Frontend** is a basic React app that displays a random greeting when connecting to the API. It uses Redux to manage the global state, which is generated with data fetched from an API built with Ruby on Rails which you can find [here](https://github.com/crclothier/hello-rails-back-end).
+**Hello React Frontend** is a simple React app that displays a random greeting when connecting to the API. It uses Redux to manage the global state, which is generated with data fetched from an API built with Ruby on Rails which you can find [here](https://github.com/crclothier/hello-rails-back-end).
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
